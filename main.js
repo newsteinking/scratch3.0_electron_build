@@ -20,7 +20,7 @@ function createWindow () {
     height: 800,
     minWidth: 1200,
     minHeight: 800,
-    title: "Scratch 3.0 GUI"
+    title: "SEANLab Scratch 3.0"
   })
 
   runServer(function (port) {
