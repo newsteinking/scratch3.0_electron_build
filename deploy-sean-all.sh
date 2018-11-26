@@ -51,7 +51,7 @@ tar -cvzf Scratch3.0-Mac-x64.tar.gz "Scratch3.0-darwin-x64" > /dev/null 2>&1
 rm -r "Scratch3.0-darwin-x64"
 cp ../index.md ./
 cp ../_config.yml ./
-cp ../README.md ./
+cp ../README-out.md ./README.md
 
 git init
 git lfs install
