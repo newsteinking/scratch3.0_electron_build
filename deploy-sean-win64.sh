@@ -57,5 +57,5 @@ git lfs track *
 git add .
 git commit -m "Deploy to Github Pages"
 #git push --force "https://${GITHUB_TOKEN}@github.com/${Scratch3.0_build_out}.git" master:gh-pages
-#git push --force "https://github.com/newsteinking/Scratch3.0_build_out.git" master:gh-pages
+git push --force "https://github.com/newsteinking/Scratch3.0_build_out.git" master:master
 exit 0
