@@ -27,3 +27,7 @@ npm install
 
 rm -rf editer
 rm -rf output
+
+# ubuntu 18.04 or 16.04
+sudo apt install wine64 
+
